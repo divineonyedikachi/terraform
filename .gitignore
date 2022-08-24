@@ -1,0 +1,48 @@
+**/target/
+**/*.mvn
+**/*.m2
+
+### STS ###
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/.project
+**/.settings
+**/.springBeans
+
+### IntelliJ IDEA ###
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+
+### NetBeans ###
+**/nbproject/private/
+**/build/
+**/nbbuild/
+**/dist/
+**/nbdist/
+**/.nb-gradle/
+
+
+# other binaries
+**/.bash_history
+
+
+# Local .terraform directories
+**/.terraform*
+**/*.tfvars
+**/*tfplan*
+**/*.tfstate*
+**/crash.log
+**/override.tf
+**/override.tf.json
+**/*_override.tf
+**/*_override.tf.json
+**/.terraformrc
+**/terraform.rc
+**/hello-world.zip
+**/response.json
+**/.vagrant*
+**/.aws*
+**/.kube*
